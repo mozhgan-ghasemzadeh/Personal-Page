@@ -1,6 +1,6 @@
 var edu = [
 	{"section":"Education", 
-	"li" : ["Dec 2018 - Present : Brunel","Apr 2017 - Nov 2018  : Postdoctoral in project ANTAREX, FEUP ","Oct 2015 - Feb 2017 : Postdoctoral at IC4, Dublin City University (DCU)","Feb 2011 - Aug 2015 : PhD in Computer Science, University of Porto"]}
+	"li" : ["Dec 2018 - Present : Postdoctoral at Brunel University London","Apr 2017 - Nov 2018  : Postdoctoral at FEUP ","Oct 2015 - Feb 2017 : Postdoctoral at IC4, Dublin City University (DCU)","Feb 2011 - Aug 2015 : PhD in Computer Science, University of Porto"]}
 	,{"section":"Visiting Scholar", 
 	"li" : ["IN2P3 Computing Center, Lyon (France), June 2012, funded by COST Action on Open European Network for High Performance Computing on Complex Environments (COST Action IC0805 ComplexHPC)","Distributed and Parallel Systems Group (DPS), University of Innsbruck, Austria, October 2014, as part of the Short Term Scientific Mission (STSM) supported by the Network for Sustainable Ultrascale Computing (NESUS) COST Action"]},
 	{ "section" :"Program Committee Member",
