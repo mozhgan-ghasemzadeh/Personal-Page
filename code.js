@@ -9,7 +9,7 @@ function loadPage(){
     var ele = document.querySelector("ul").children;
     var ele = document.querySelector(' a[ href = "#'+li+'" ]');
 	//rgb(140,130,121,0.3)
-    ele.parentNode.style.backgroundColor = "#8C8279";
+    ele.parentNode.style.backgroundColor = "rgb(140,130,121,0.3)";
 }
 function ChangeTab(e){
 	
