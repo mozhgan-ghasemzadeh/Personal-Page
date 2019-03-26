@@ -26,26 +26,7 @@ body nav {
   z-index: 5;
   font-size: 1.8vw;
   overflow: auto;
-  /*#Copy{
-  color:white;
-  width:100%;
-  position:absolute;
-  bottom: 0px;
-  font-size: 1vw;
-  
-  box-sizing: border-box;
-  padding:  2vh 2vw;
-  @include mobile {
-  	display: none;
-  }
-  @include Sbrowser {
-  	font-size: 1.5vw;
-  }
-  a{
-  	color:white;
-  	text-decoration: none;
-  }
-  }*/
+ 
 }
 @media (max-width: 560px) {
   body nav {
